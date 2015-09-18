@@ -4,4 +4,4 @@ Base GNU/Linux image distribution - [baseimage](https://github.com/phusion/basei
 
 ###List
 
- * base.java - java 8 base images.
+ * java.base - java 8 base images.
